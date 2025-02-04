@@ -1,0 +1,11 @@
+Chance Salois
+2/4/2025
+Multiplayer Games
+Homework 2
+
+
+
+
+The concept of the game I plan to make is very simplistic. Basically, there will be 2 players on a split screen and the object is to make it through the obstacle course first. There will be elements of parkour that will help the player get to the end goal. Think something along the lines of a simpler, more competitive Super Meat Boy. The graphics will be very bare bones, with 2d lines and stick figures racing. I think that a simpler approach to my first real game will be a benefit for me in the long run to better learn the tools necessary to create things more complex.
+The only networking feature I have in mind at the moment is matchmaking, but I could see myself adding leaderboards in the future with a time trial feature for however many maps I decide to make. However, I am also debating whether or not I want to use AI to help me make randomly generated levels each time the game is played. For this, I would probably use OpenAI, although DeepSeek has caught my interest in the past week. If I use AI to help me make randomly generated levels (which is what I’m leaning towards), then there’s no practical use for leaderboards.
+The networking environment I will be using is Unity Netcode for Game Objects (NGO). The reason I am choosing to use this environment is because it’s already built into Unity and in my mind that should make it easier to use with Unity. 
